@@ -1,0 +1,1 @@
+groovysh -cp '/home/samyang/hbase-0.90.6/hbase-0.90.6.jar:/home/samyang/hbase-0.90.6/lib/*:/home/samyang/hbase-0.90.6/conf/*:.'
